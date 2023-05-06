@@ -1,0 +1,29 @@
+<div class="galeria">
+        <h1>Galeria</h1>
+        <div class="galeria_pics"></div>
+        <figure class="galeria_pics galeria_item--1">
+            <img src="img/galeria/gallery3.jpg" class="galeria_img" alt="imagem 1">
+        </figure>
+        <figure class="galeria_pics galeria_item--2">
+            <img src="img/galeria/gallery4.jpg" class="galeria_img" alt="imagem 2">
+        </figure>
+        <figure class="galeria_pics galeria_item--3">
+            <img src="img/galeria/galley5.jpg" class="galeria_img" alt="imagem 3">
+        </figure>
+        <figure class="galeria_pics galeria_item--4">
+            <img src="img/galeria/gallery6.webp" class="galeria_img" alt="imagem 4">
+        </figure>
+        <figure class="galeria_pics galeria_item--5">
+            <img src="img/galeria/gallery7.webp" class="galeria_img" alt="imagem 5">
+        </figure>
+        <figure class="galeria_pics galeria_item--6">
+            <img src="img/galeria/gallery8.jpg" class="galeria_img" alt="imagem 6">
+        </figure>
+    </div>
+
+
+z-index= z-fixed:100 > z-tooltip:10 > z-negative: -1
+
+
+
+58:37
